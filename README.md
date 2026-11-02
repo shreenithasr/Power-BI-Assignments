@@ -20,7 +20,9 @@ This repository showcases my hands-on learning and practical assignments in **Mi
 - Data visualisation and dashboard development
 
 ### Assignment 2 – E-Commerce Sales Analysis
+### Dashboard Preview
 
+![Power BI Assignment 2 Dashboard](./PowerBI_Assignment_2.png)
 **Files:**
 - `Assignment 2 E Commerce Sales Analysis.pbix`
 - `Power BI Assignment 2.docx`
